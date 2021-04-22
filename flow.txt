@@ -1,0 +1,3 @@
+/signup => Store user in the db (email & password)
+/login => Check if user exists in the db, 
+            then check for password equality & return jwt
